@@ -1,6 +1,6 @@
-## Code.education - Curso GIT
+# Code.education - Curso GIT
 
-#Projeto Fase 1 - Fazendo o primeiro push
+##Projeto Fase 1 - Fazendo o primeiro push
 
 **- Principais instruções**
 
