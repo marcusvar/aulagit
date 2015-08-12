@@ -2,7 +2,7 @@
 
 ** - Principais instruções**
 
-git init
+git init<br />
 touch arquivo.txt
 vim arquivo.txt
 touch README.md
